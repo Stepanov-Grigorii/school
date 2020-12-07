@@ -1,0 +1,11 @@
+ru\grandstep\school\model\User.class
+ru\grandstep\school\service\BookService.class
+ru\grandstep\school\controller\MainController.class
+ru\grandstep\school\service\UserService.class
+ru\grandstep\school\controller\UserController.class
+ru\grandstep\school\repository\UserRepository.class
+ru\grandstep\school\config\Application.class
+ru\grandstep\school\config\SpringConfig.class
+ru\grandstep\school\config\HibernateConfig.class
+ru\grandstep\school\config\WebConfig.class
+ru\grandstep\school\model\Book.class
