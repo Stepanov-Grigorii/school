@@ -20,7 +20,6 @@
     <c:if test="${user.id ne null}">
         Редактирование пользователя
     </c:if>
-
 </h1>
 <c:url value="/users/save" var="savelink"/>
 <form:form method="post" action="${savelink}" autocomplete="false" modelAttribute="user">
@@ -36,5 +35,4 @@
     <input type="submit" value="Сохранить"/>
 </form:form>
 </body>
-
 </html>
